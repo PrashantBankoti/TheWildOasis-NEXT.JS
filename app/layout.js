@@ -1,5 +1,5 @@
-import Logo from "./components/Logo";
-import Naviagtion from "./components/Navigation";
+import Logo from "./_components/Logo";
+import Naviagtion from "./_components/Navigation";
 
 // This is a convention of NEXT.js to change the title of the Tab in the website.
 export const metadata = {
